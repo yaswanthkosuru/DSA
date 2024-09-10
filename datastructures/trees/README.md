@@ -1,33 +1,4 @@
-# Notes for Data Structures
-
-## int
-
-helps in storing integer values
-
-## array
-
-helps in storing sequential data of same data type
-
-## stack
-
-follows first in last out (FILO)
-
-## set
-
-look up in o(1) and add item in o(1)
-
-## Hash table
-
-**Separate Chaining (Open Hashing)** :hash tha value to get index and store a list of items in the hash table.
-**closed hasing**:it doesnt use extra linked list just keep in hash table.
-
-helps in designing sets
-
-## Disjoint set
-
-helps in solving connectivity type problems
-
-## Trees in Data Structures and Algorithms (DSA)
+# Trees in Data Structures and Algorithms (DSA)
 
 **Trees** are non linear data structures that consist of **nodes** connected by **edges** and maintain parent child relation ship.
 
