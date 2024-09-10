@@ -1,0 +1,1 @@
+#Algorithm:fdAn algorithm is a step-by-step procedure or set of rules designed to perform a specific task or solve a particular problem. In computer science, algorithms are the foundation for processing data, performing computations, and automating reasoning tasks.
