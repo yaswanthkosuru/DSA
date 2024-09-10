@@ -5,12 +5,12 @@ we implement almost every data structures from scratch in python.
 
 ## Basic Math For Data Structures and Algorithms
 
-DOCS:[REFER DOCUMENTATION](./math/README.md)
+DOCS:[click here](./math)
 
 ## DATA STRUCTURES
 
-DOCS:[REFER DOCUMENTATION](./datastructures/README.md)
+DOCS:[click here](./datastructures)
 
 ## ALGORITHMS
 
-DOCS:[REFER DOCUMENTATION](./algorithms/README.md)
+DOCS:[click here](./algorithms)
