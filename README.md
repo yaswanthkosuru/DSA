@@ -6,14 +6,14 @@ we implement almost every data structures from scratch in python.
 ## Basic Math For Data Structures and Algorithms
 
 Basic mathematics required to solve DSA Problems.
-DOCS:[click here](./math)
+Docs:[click here](./math)
 
 ## DATA STRUCTURES
 
 storing and retrieving data in an efficient way.
-DOCS:[click here](./datastructures)
+Docs:[click here](./datastructures)
 
 ## ALGORITHMS
 
 Step by step procedure for solving a problem.
-DOCS:[click here](./algorithms)
+Docs:[click here](./algorithms)
