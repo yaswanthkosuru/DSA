@@ -4,7 +4,7 @@
 
 helps in storing different types of objects
 
-DOCS:[MORE ABOUT linkedlist](./basic/)
+DOCS:[MORE ABOUT basic types](./basic/)
 
 ## linked list
 
