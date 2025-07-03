@@ -27,6 +27,16 @@ https://youtu.be/IPvYjXCsTg8?si=M3CHK0cRoIGgLoKi
 ## dbms
 see dbms notes in root folder.
 
+## Distributed Systems
+https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB
 
+## system Design (high level)
+see grooking system design
+
+## Low Level Design (oops machine coding...etc)
+refer: https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-and-uml/object-oriented-basics.md
+
+## Machine learning deeplearning
+revison by andrew ng.
 
 
