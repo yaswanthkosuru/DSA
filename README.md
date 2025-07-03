@@ -17,3 +17,16 @@ Docs:[click here](./datastructures)
 
 Step by step procedure for solving a problem.
 Docs:[click here](./algorithms)
+
+## operating systems
+see osnotes in root folder.
+
+## NetWorking
+https://youtu.be/IPvYjXCsTg8?si=M3CHK0cRoIGgLoKi
+
+## dbms
+see dbms notes in root folder.
+
+
+
+
